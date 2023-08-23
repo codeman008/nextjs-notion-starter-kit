@@ -3,7 +3,7 @@
   "short_name": "Starter Kit",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/zw_32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
